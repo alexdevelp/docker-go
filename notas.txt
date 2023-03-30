@@ -1,0 +1,7 @@
+## Processos
+
+- docker build -t placecode/fullcycle .
+
+- docker run -d --name golang placecode/fullcycle 
+- docker run -it --name golang placecode/fullycle
+- docker run --rm -t -d --name golang placecode/fullcycle
